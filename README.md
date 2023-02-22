@@ -12,6 +12,6 @@ Articles on deep learning. A technical background is not required but may be hel
 
   https://medium.com/artificialis/motivated-question-asking-ai-38876bdfe14b
   
-- A look at provably effective yet inefficient algorithms for AI
+- A look at provably effective yet inefficient algorithms for AI.
 
   https://medium.com/@nullonesix/aixi-efficient-agi-transformers-41607bff089b
